@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
+title: Saidarshan
 email: ""
 description: "Photo Journal"
 url: "https://saiphotographs.github.io"
 baseurl: "/"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "_saidarshan_official_"
+github_username:  "saiphotographs"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
