@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://Saiphotographs.github.io"
-baseurl: "/sai"
+url: "https://saiphotographs.github.io"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://Saiphotographs.github.io/gallery/"  
-  - JOURNAL: "https://Saiphotographs.github.io/journal/"
-  - ABOUT: "https://Saiphotographs.github.io/about/"
+  - GALLERY: "https://saiphotographs.github.io/gallery/"  
+  - JOURNAL: "https://saiphotographs.github.io/journal/"
+  - ABOUT: "https://saiphotographs.github.io/about/"
 
 # All translation keys
 translations:
