@@ -5,17 +5,17 @@ description: "Photo Journal"
 url: "https://saiphotographs.github.io"
 baseurl: "/"
 facebook_username: ""
-twitter_username: ""
+#twitter_username: ""
 instagram_username: "_saidarshan_official_"
 github_username:  "saiphotographs"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Saidarshan
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
