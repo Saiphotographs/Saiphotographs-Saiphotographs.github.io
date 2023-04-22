@@ -4,7 +4,7 @@ email: "shuttersnap0228@gmail.com"
 description: "Photo Journal"
 url: "https://ShutterSnaps.github.io"
 baseurl: "/"
-facebook_username: ""
+facebook_username: "Shutter-Snaps"
 #twitter_username: ""
 instagram_username: "_shutter._.snaps_"
 #github_username:  "saiphotographs"
@@ -34,7 +34,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://ShutterSnaps.github.io/gallery/"  
-  - JOURNAL: "https://ShutterSnaps.github.io/journal/"
   - ABOUT: "https://ShutterSnaps.github.io/about/"
 
 # All translation keys
@@ -52,10 +51,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
