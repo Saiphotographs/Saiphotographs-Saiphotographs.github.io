@@ -7,7 +7,7 @@ baseurl: "/"
 facebook_username: ""
 #twitter_username: ""
 instagram_username: "_saidarshan_official_"
-github_username:  "saiphotographs"
+#github_username:  "saiphotographs"
 #deviantart_username: ""
 #flickr_username: ""
 #discus_shortname: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://saiphotographs.github.io/gallery/"  
-  - JOURNAL: "https://saiphotographs.github.io/journal/"
-  - ABOUT: "https://saiphotographs.github.io/about/"
+  - GALLERY: "https://ShutterSnaps.github.io/gallery/"  
+  - JOURNAL: "https://ShutterSnaps.github.io/journal/"
+  - ABOUT: "https://ShutterSnaps.github.io/about/"
 
 # All translation keys
 translations:
