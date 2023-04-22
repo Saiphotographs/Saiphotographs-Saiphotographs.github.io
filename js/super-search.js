@@ -3,8 +3,7 @@ Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
 (function () {
-	var searchFile = '/feed.xml',
-		searchEl,
+	var searchFile = searchEl,
 		searchInputEl,
 		searchResultsEl,
 		currentInputValue = '',
