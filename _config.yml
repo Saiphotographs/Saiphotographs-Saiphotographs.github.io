@@ -1,5 +1,5 @@
 # Site settings
-title: Saidarshan
+title: ShutterSnaps
 email: "shuttersnap0228@gmail.com"
 description: "Photo Journal"
 url: "https://ShutterSnaps.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   Saidarshan
+  name:   ShutterSnaps
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website 
